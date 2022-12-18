@@ -28,4 +28,4 @@
 [<img alt="GitHub followers" src="https://img.shields.io/github/followers/KrithikaRK?&logoColor=red&style=social">](https://github.com/KrithikaRK?tab=followers)
 [<img alt="GitHub forks" src="https://img.shields.io/github/forks/KrithikaRK/TranslatorSelenium?logoColor=red&style=social">](https://github.com/KrithikaRK/TranslatorSelenium/network/members)
 ------
-[KrithikaRK](https://github.com/KrithikaRK)
+[Krithika Rajesh](https://github.com/KrithikaRK)
