@@ -13,10 +13,10 @@
 [<img src="https://user-images.githubusercontent.com/43498569/208311126-0cfb7249-2a6c-481b-9482-8a7cf35f0b14.png" alt="HTML5" width="65">]("https://html.com") &nbsp;
 [<img src="https://user-images.githubusercontent.com/43498569/208311174-1fd6074a-1f8d-431a-baa0-ed9242ce937a.png" alt="CSS3" width="65">]("https://www.w3.org/TR/CSS/#css") &nbsp;
 [<img src="https://user-images.githubusercontent.com/43498569/208311171-ca80971f-0b85-440c-a239-ea264107f109.png" alt="Javascript" width="65">]("https://www.javascript.com") &nbsp;
+[<img src="https://user-images.githubusercontent.com/43498569/208312125-0bdf868d-3168-486d-944d-55200cb17ceb.png" alt="Linux" width="65">]("https://www.linux.org") &nbsp;
 
 [<img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail" width="65">](mailto:kkrithika9184@gmail.com) &nbsp;
 [<img src="https://user-images.githubusercontent.com/43498569/208311000-f8818549-b7d7-4524-8c2b-67af994b4597.png" alt="HackerRank" width="150">]("https://www.hackerrank.com/kkrithika9184) &nbsp;
-
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KrithikaRK&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
